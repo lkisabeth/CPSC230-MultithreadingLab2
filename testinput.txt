@@ -1,0 +1,25 @@
+3
+scope 2
+needle 1
+monitor 1
+10
+5000
+scope needle
+8000
+monitor needle
+3000
+scope
+1000
+scope
+4000
+scope monitor needle
+5000
+scope
+8000
+monitor needle
+3000
+scope needle
+1000
+scope
+4000
+scope monitor needle
