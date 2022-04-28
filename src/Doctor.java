@@ -24,5 +24,9 @@ public class Doctor extends Thread {
                 equipmentStorage.add(equipment);
             }
         }
+
+        // I can output something here to the console when the patient size gets to 0..
+        // and that would tell me that this run is done..
+        // but I don't know how to access this programmatically since run() must return void..?
     }
 }
